@@ -34,7 +34,7 @@
     "globby": "^14.0.2",
     "hash-sum": "^2.0.0",
     "ignore": "^6.0.2",
-    "jiti": "^2.3.3",
+    "jiti": "^2.4.0",
     "klona": "^2.0.6",
     "knitwork": "^1.1.0",
     "mlly": "^1.7.2",
@@ -57,7 +57,7 @@
     "unbuild": "latest",
     "vite": "5.4.10",
     "vitest": "2.1.4",
-    "webpack": "5.96.0"
+    "webpack": "5.96.1"
   },
   "engines": {
     "node": "^14.18.0 || >=16.10.0"
